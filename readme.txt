@@ -1,0 +1,1 @@
+The variables, including the content of cement (X1, kg/m^3), RHA (X2, kg/m^3), water (X3, kg/m^3), fine aggregate (X4, kg/m^3), coarse aggregate (X5, kg/m^3), superplasticizer (SP, %) (X6), and concrete age (X7 , day) , are used as predictor variables to estimate the dependent variable of the compressive strength (Y, MPa). 
